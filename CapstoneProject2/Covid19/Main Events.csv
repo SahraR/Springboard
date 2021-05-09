@@ -1,0 +1,95 @@
+﻿province,date,Holiday name
+Ontario,07-01-2020,Raised Awarness on Airport
+BC,07-01-2020,Raised Awarness on Airport
+Quebec,07-01-2020,Raised Awarness on Airport
+Ontario,11-03-2020,COVID 19 Pandemic declared
+BC,11-03-2020,COVID 19 Pandemic declared
+Manitoba,11-03-2020,COVID 19 Pandemic declared
+New Brunswick,11-03-2020,COVID 19 Pandemic declared
+NL,11-03-2020,COVID 19 Pandemic declared
+Nova Scotia,11-03-2020,COVID 19 Pandemic declared
+Nunavut,11-03-2020,COVID 19 Pandemic declared
+NWT,11-03-2020,COVID 19 Pandemic declared
+PEI,11-03-2020,COVID 19 Pandemic declared
+Quebec,11-03-2020,COVID 19 Pandemic declared
+Alberta,11-03-2020,COVID 19 Pandemic declared
+Saskatchewan,11-03-2020,COVID 19 Pandemic declared
+Yukon,11-03-2020,COVID 19 Pandemic declared
+Ontario,18-03-2020,US border Closed
+BC,18-03-2020,US border Closed
+Manitoba,18-03-2020,US border Closed
+New Brunswick,18-03-2020,US border Closed
+NL,18-03-2020,US border Closed
+Nova Scotia,18-03-2020,US border Closed
+Nunavut,18-03-2020,US border Closed
+NWT,18-03-2020,US border Closed
+PEI,18-03-2020,US border Closed
+Quebec,18-03-2020,US border Closed
+Alberta,18-03-2020,US border Closed
+Saskatchewan,18-03-2020,US border Closed
+Yukon,18-03-2020,US border Closed
+Ontario,24-03-2020,Social Distancing + Mask Mandatory
+BC,24-03-2020,Social Distancing + Mask Mandatory
+Manitoba,24-03-2020,Social Distancing + Mask Mandatory
+New Brunswick,24-03-2020,Social Distancing + Mask Mandatory
+NL,24-03-2020,Social Distancing + Mask Mandatory
+Nova Scotia,24-03-2020,Social Distancing + Mask Mandatory
+Nunavut,24-03-2020,Social Distancing + Mask Mandatory
+NWT,24-03-2020,Social Distancing + Mask Mandatory
+PEI,24-03-2020,Social Distancing + Mask Mandatory
+Quebec,24-03-2020,Social Distancing + Mask Mandatory
+Alberta,24-03-2020,Social Distancing + Mask Mandatory
+Saskatchewan,24-03-2020,Social Distancing + Mask Mandatory
+Yukon,24-03-2020,Social Distancing + Mask Mandatory
+Ontario,31-03-2020,Lockdown Started
+Ontario,28-07-2020,Lockdown Ended
+Ontario,10-10-2020,Lockdown Started
+Ontario,08-02-2021,Lockdown Ended
+Ontario,03-04-2021,Lockdown Started
+BC,20-03-2020,Lockdown Started
+BC,19-05-2020,Lockdown Ended
+BC,07-11-2020,Lockdown Started
+BC,08-01-2021,Lockdown Ended
+BC,31-03-2021,Lockdown Started
+Manitoba,01-04-2020,Lockdown Started
+Manitoba,01-06-2020,Lockdown Ended
+Manitoba,30-10-2020,Lockdown Started
+Manitoba,12-02-2021,Lockdown Ended
+New Brunswick,19-03-2020,Lockdown Started
+New Brunswick,03-07-2020,Lockdown Ended
+New Brunswick,24-11-2020,Lockdown Started
+New Brunswick,04-01-2021,Lockdown Ended
+New Brunswick,19-03-2021,Lockdown Started
+NL,23-03-2020,Lockdown Started
+NL,11-05-2020,Lockdown Ended
+NL,12-02-2021,Lockdown Started
+NL,27-03-2021,Lockdown Ended
+Nova Scotia,23-03-2020,Lockdown Started
+Nova Scotia,01-05-2020,Lockdown Ended
+Nova Scotia,26-11-2020,Lockdown Started
+Nova Scotia,04-01-2021,Lockdown Ended
+Nova Scotia,28-04-2021,Lockdown Started
+Nunavut,17-03-2020,Lockdown Started
+Nunavut,01-06-2020,Lockdown Ended
+Nunavut,06-11-2020,Lockdown Started
+Nunavut,02-12-2020,Lockdown Ended
+Nunavut,15-04-2021,Lockdown Started
+NWT,16-03-2020,Lockdown Started
+NWT,15-05-2020,Lockdown Ended
+PEI,17-03-2020,Lockdown Started
+PEI,15-5-2020,Lockdown Ended
+PEI,07-12-2020,Lockdown Started
+PEI,06-01-2021,Lockdown Ended
+Quebec,16-03-2020,Lockdown Started
+Quebec,20-05-2020,Lockdown Ended
+Quebec,01-10-2020,Lockdown Started
+Quebec,11-01-2021,Lockdown Ended
+Alberta,27-03-2020,Lockdown Started
+Alberta,14-05-2020,Lockdown Ended
+Alberta,27-11-2020,Lockdown Started
+Alberta,08-02-2021,Lockdown Ended
+Alberta,09-04-2021,Lockdown Started
+Saskatchewan,18-03-2020,Lockdown Started
+Saskatchewan,19-05-2020,Lockdown Ended
+Yukon,18-03-2020,Lockdown Started
+Yukon,29-05-2020,Lockdown Ended

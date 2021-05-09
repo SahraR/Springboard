@@ -1,0 +1,377 @@
+﻿province,date,Holiday name
+Ontario,01-01-2020,New Year's day
+BC,01-01-2020,New Year's day
+Manitoba,01-01-2020,New Year's day
+New Brunswick,01-01-2020,New Year's day
+NL,01-01-2020,New Year's day
+Nova Scotia,01-01-2020,New Year's day
+Nunavut,01-01-2020,New Year's day
+NWT,01-01-2020,New Year's day
+PEI,01-01-2020,New Year's day
+Quebec,01-01-2020,New Year's day
+Alberta,01-01-2020,New Year's day
+Saskatchewan,01-01-2020,New Year's day
+Yukon,01-01-2020,New Year's day
+Ontario,14-02-2020,Valentine's day
+BC,14-02-2020,Valentine's day
+Manitoba,14-02-2020,Valentine's day
+New Brunswick,14-02-2020,Valentine's day
+NL,14-02-2020,Valentine's day
+Nova Scotia,14-02-2020,Valentine's day
+Nunavut,14-02-2020,Valentine's day
+NWT,14-02-2020,Valentine's day
+PEI,14-02-2020,Valentine's day
+Quebec,14-02-2020,Valentine's day
+Alberta,14-02-2020,Valentine's day
+Saskatchewan,14-02-2020,Valentine's day
+Yukon,14-02-2020,Valentine's day
+PEI,17-02-2020,Islander Day
+Manitoba,17-02-2020,Louis Riel Day
+Nova Scotia,17-02-2020,Heritage Day
+BC,17-02-2020,Family Day
+Alberta,17-02-2020,Family Day
+Saskatchewan,17-02-2020,Family Day
+Ontario,17-02-2020,Family Day
+New Brunswick,17-02-2020,Family Day
+Ontario,17-03-2020,St. Patricks Day
+BC,17-03-2020,St. Patricks Day
+Manitoba,17-03-2020,St. Patricks Day
+New Brunswick,17-03-2020,St. Patricks Day
+NL,17-03-2020,St. Patricks Day
+Nova Scotia,17-03-2020,St. Patricks Day
+Nunavut,17-03-2020,St. Patricks Day
+NWT,17-03-2020,St. Patricks Day
+PEI,17-03-2020,St. Patricks Day
+Quebec,17-03-2020,St. Patricks Day
+Alberta,17-03-2020,St. Patricks Day
+Saskatchewan,17-03-2020,St. Patricks Day
+Yukon,17-03-2020,St. Patricks Day
+Ontario,10-04-2020,Easter
+BC,10-04-2020,Easter
+Manitoba,10-04-2020,Easter
+New Brunswick,10-04-2020,Easter
+NL,10-04-2020,Easter
+Nova Scotia,10-04-2020,Easter
+Nunavut,10-04-2020,Easter
+NWT,10-04-2020,Easter
+PEI,10-04-2020,Easter
+Quebec,10-04-2020,Easter
+Alberta,10-04-2020,Easter
+Saskatchewan,10-04-2020,Easter
+Yukon,10-04-2020,Easter
+Ontario,10-05-2020,Mothers Day
+BC,10-05-2020,Mothers Day
+Manitoba,10-05-2020,Mothers Day
+New Brunswick,10-05-2020,Mothers Day
+NL,10-05-2020,Mothers Day
+Nova Scotia,10-05-2020,Mothers Day
+Nunavut,10-05-2020,Mothers Day
+NWT,10-05-2020,Mothers Day
+PEI,10-05-2020,Mothers Day
+Quebec,10-05-2020,Mothers Day
+Alberta,10-05-2020,Mothers Day
+Saskatchewan,10-05-2020,Mothers Day
+Yukon,10-05-2020,Mothers Day
+Ontario,18-05-2020,Victoria Day
+BC,18-05-2020,Victoria Day
+Manitoba,18-05-2020,Victoria Day
+Nunavut,18-05-2020,Victoria Day
+NWT,18-05-2020,Victoria Day
+PEI,18-05-2020,Victoria Day
+Quebec,18-05-2020,Victoria Day
+Alberta,18-05-2020,Victoria Day
+Saskatchewan,18-05-2020,Victoria Day
+Yukon,18-05-2020,Victoria Day
+Ontario,21-06-2020,Fathers Day
+BC,21-06-2020,Fathers Day
+Manitoba,21-06-2020,Fathers Day
+New Brunswick,21-06-2020,Fathers Day
+NL,21-06-2020,Fathers Day
+Nova Scotia,21-06-2020,Fathers Day
+Nunavut,21-06-2020,Fathers Day
+NWT,21-06-2020,Fathers Day
+PEI,21-06-2020,Fathers Day
+Quebec,21-06-2020,Fathers Day
+Alberta,21-06-2020,Fathers Day
+Saskatchewan,21-06-2020,Fathers Day
+Yukon,21-06-2020,Fathers Day
+NWT,21-06-2020,Aboriginal Day
+Quebec,24-06-2020,St. Jean Baptiste Day
+Ontario,01-07-2020,Canada Day
+BC,01-07-2020,Canada Day
+Manitoba,01-07-2020,Canada Day
+New Brunswick,01-07-2020,Canada Day
+NL,01-07-2020,Canada Day
+Nova Scotia,01-07-2020,Canada Day
+Nunavut,01-07-2020,Canada Day
+NWT,01-07-2020,Canada Day
+PEI,01-07-2020,Canada Day
+Quebec,01-07-2020,Canada Day
+Alberta,01-07-2020,Canada Day
+Saskatchewan,01-07-2020,Canada Day
+Yukon,01-07-2020,Canada Day
+Ontario,03-08-2020,Civic Holiday
+BC,03-08-2020,Civic Holiday
+New Brunswick,03-08-2020,Civic Holiday
+Alberta,03-08-2020,Civic Holiday
+Saskatchewan,03-08-2020,Civic Holiday
+Nunavut,03-08-2020,Civic Holiday
+Ontario,07-09-2020,Labours Day
+BC,07-09-2020,Labours Day
+Manitoba,07-09-2020,Labours Day
+New Brunswick,07-09-2020,Labours Day
+NL,07-09-2020,Labours Day
+Nova Scotia,07-09-2020,Labours Day
+Nunavut,07-09-2020,Labours Day
+NWT,07-09-2020,Labours Day
+PEI,07-09-2020,Labours Day
+Quebec,07-09-2020,Labours Day
+Alberta,07-09-2020,Labours Day
+Saskatchewan,07-09-2020,Labours Day
+Yukon,07-09-2020,Labours Day
+Ontario,12-10-2020,Thanksgiving
+BC,12-10-2020,Thanksgiving
+Manitoba,12-10-2020,Thanksgiving
+Nunavut,12-10-2020,Thanksgiving
+NWT,12-10-2020,Thanksgiving
+PEI,12-10-2020,Thanksgiving
+Quebec,12-10-2020,Thanksgiving
+Alberta,12-10-2020,Thanksgiving
+Saskatchewan,12-10-2020,Thanksgiving
+Yukon,12-10-2020,Thanksgiving
+Ontario,31-10-2020,Halloween
+BC,31-10-2020,Halloween
+Manitoba,31-10-2020,Halloween
+New Brunswick,31-10-2020,Halloween
+NL,31-10-2020,Halloween
+Nova Scotia,31-10-2020,Halloween
+Nunavut,31-10-2020,Halloween
+NWT,31-10-2020,Halloween
+PEI,31-10-2020,Halloween
+Quebec,31-10-2020,Halloween
+Alberta,31-10-2020,Halloween
+Saskatchewan,31-10-2020,Halloween
+Yukon,31-10-2020,Halloween
+BC,11-11-2020,Remembrance Day
+New Brunswick,11-11-2020,Remembrance Day
+NL,11-11-2020,Remembrance Day
+Nunavut,11-11-2020,Remembrance Day
+NWT,11-11-2020,Remembrance Day
+PEI,11-11-2020,Remembrance Day
+Alberta,11-11-2020,Remembrance Day
+Saskatchewan,11-11-2020,Remembrance Day
+Yukon,11-11-2020,Remembrance Day
+Ontario,25-12-2020,Christmas
+BC,25-12-2020,Christmas
+Manitoba,25-12-2020,Christmas
+New Brunswick,25-12-2020,Christmas
+NL,25-12-2020,Christmas
+Nova Scotia,25-12-2020,Christmas
+Nunavut,25-12-2020,Christmas
+NWT,25-12-2020,Christmas
+PEI,25-12-2020,Christmas
+Quebec,25-12-2020,Christmas
+Alberta,25-12-2020,Christmas
+Saskatchewan,25-12-2020,Christmas
+Yukon,25-12-2020,Christmas
+Ontario,26-12-2020,Boxing Day
+BC,26-12-2020,Boxing Day
+Manitoba,26-12-2020,Boxing Day
+New Brunswick,26-12-2020,Boxing Day
+NL,26-12-2020,Boxing Day
+Nova Scotia,26-12-2020,Boxing Day
+Nunavut,26-12-2020,Boxing Day
+NWT,26-12-2020,Boxing Day
+PEI,26-12-2020,Boxing Day
+Quebec,26-12-2020,Boxing Day
+Alberta,26-12-2020,Boxing Day
+Saskatchewan,26-12-2020,Boxing Day
+Yukon,26-12-2020,Boxing Day
+Ontario,01-01-2021,New Year's day
+BC,01-01-2021,New Year's day
+Manitoba,01-01-2021,New Year's day
+New Brunswick,01-01-2021,New Year's day
+NL,01-01-2021,New Year's day
+Nova Scotia,01-01-2021,New Year's day
+Nunavut,01-01-2021,New Year's day
+NWT,01-01-2021,New Year's day
+PEI,01-01-2021,New Year's day
+Quebec,01-01-2021,New Year's day
+Alberta,01-01-2021,New Year's day
+Saskatchewan,01-01-2021,New Year's day
+Yukon,01-01-2021,New Year's day
+Ontario,14-02-2021,Valentine's day
+BC,14-02-2021,Valentine's day
+Manitoba,14-02-2021,Valentine's day
+New Brunswick,14-02-2021,Valentine's day
+NL,14-02-2021,Valentine's day
+Nova Scotia,14-02-2021,Valentine's day
+Nunavut,14-02-2021,Valentine's day
+NWT,14-02-2021,Valentine's day
+PEI,14-02-2021,Valentine's day
+Quebec,14-02-2021,Valentine's day
+Alberta,14-02-2021,Valentine's day
+Saskatchewan,14-02-2021,Valentine's day
+Yukon,14-02-2021,Valentine's day
+PEI,15-02-2021,Islander Day
+Manitoba,15-02-2021,Louis Riel Day
+Nova Scotia,15-02-2021,Heritage Day
+BC,15-02-2021,Family Day
+Alberta,15-02-2021,Family Day
+Saskatchewan,15-02-2021,Family Day
+Ontario,15-02-2021,Family Day
+New Brunswick,15-02-2021,Family Day
+Ontario,17-03-2021,St. Patricks Day
+BC,17-03-2021,St. Patricks Day
+Manitoba,17-03-2021,St. Patricks Day
+New Brunswick,17-03-2021,St. Patricks Day
+NL,17-03-2021,St. Patricks Day
+Nova Scotia,17-03-2021,St. Patricks Day
+Nunavut,17-03-2021,St. Patricks Day
+NWT,17-03-2021,St. Patricks Day
+PEI,17-03-2021,St. Patricks Day
+Quebec,17-03-2021,St. Patricks Day
+Alberta,17-03-2021,St. Patricks Day
+Saskatchewan,17-03-2021,St. Patricks Day
+Yukon,17-03-2021,St. Patricks Day
+Ontario,02-04-2021,Easter
+BC,02-04-2021,Easter
+Manitoba,02-04-2021,Easter
+New Brunswick,02-04-2021,Easter
+NL,02-04-2021,Easter
+Nova Scotia,02-04-2021,Easter
+Nunavut,02-04-2021,Easter
+NWT,02-04-2021,Easter
+PEI,02-04-2021,Easter
+Quebec,02-04-2021,Easter
+Alberta,02-04-2021,Easter
+Saskatchewan,02-04-2021,Easter
+Yukon,02-04-2021,Easter
+Ontario,09-05-2021,Mothers Day
+BC,09-05-2021,Mothers Day
+Manitoba,09-05-2021,Mothers Day
+New Brunswick,09-05-2021,Mothers Day
+NL,09-05-2021,Mothers Day
+Nova Scotia,09-05-2021,Mothers Day
+Nunavut,09-05-2021,Mothers Day
+NWT,09-05-2021,Mothers Day
+PEI,09-05-2021,Mothers Day
+Quebec,09-05-2021,Mothers Day
+Alberta,09-05-2021,Mothers Day
+Saskatchewan,09-05-2021,Mothers Day
+Yukon,09-05-2021,Mothers Day
+Ontario,24-05-2021,Victoria Day
+BC,24-05-2021,Victoria Day
+Manitoba,24-05-2021,Victoria Day
+Nunavut,24-05-2021,Victoria Day
+NWT,24-05-2021,Victoria Day
+PEI,24-05-2021,Victoria Day
+Quebec,24-05-2021,Victoria Day
+Alberta,24-05-2021,Victoria Day
+Saskatchewan,24-05-2021,Victoria Day
+Yukon,24-05-2021,Victoria Day
+Ontario,20-06-2021,Fathers Day
+BC,20-06-2021,Fathers Day
+Manitoba,20-06-2021,Fathers Day
+New Brunswick,20-06-2021,Fathers Day
+NL,20-06-2021,Fathers Day
+Nova Scotia,20-06-2021,Fathers Day
+Nunavut,20-06-2021,Fathers Day
+NWT,20-06-2021,Fathers Day
+PEI,20-06-2021,Fathers Day
+Quebec,20-06-2021,Fathers Day
+Alberta,20-06-2021,Fathers Day
+Saskatchewan,20-06-2021,Fathers Day
+Yukon,20-06-2021,Fathers Day
+NWT,21-06-2021,Aboriginal Day
+Quebec,24-06-2021,St. Jean Baptiste Day
+Ontario,01-07-2021,Canada Day
+BC,01-07-2021,Canada Day
+Manitoba,01-07-2021,Canada Day
+New Brunswick,01-07-2021,Canada Day
+NL,01-07-2021,Canada Day
+Nova Scotia,01-07-2021,Canada Day
+Nunavut,01-07-2021,Canada Day
+NWT,01-07-2021,Canada Day
+PEI,01-07-2021,Canada Day
+Quebec,01-07-2021,Canada Day
+Alberta,01-07-2021,Canada Day
+Saskatchewan,01-07-2021,Canada Day
+Yukon,01-07-2021,Canada Day
+Ontario,02-08-2021,Civic Holiday
+BC,02-08-2021,Civic Holiday
+New Brunswick,02-08-2021,Civic Holiday
+Alberta,02-08-2021,Civic Holiday
+Saskatchewan,02-08-2021,Civic Holiday
+Nunavut,02-08-2021,Civic Holiday
+Ontario,06-09-2021,Labours Day
+BC,06-09-2021,Labours Day
+Manitoba,06-09-2021,Labours Day
+New Brunswick,06-09-2021,Labours Day
+NL,06-09-2021,Labours Day
+Nova Scotia,06-09-2021,Labours Day
+Nunavut,06-09-2021,Labours Day
+NWT,06-09-2021,Labours Day
+PEI,06-09-2021,Labours Day
+Quebec,06-09-2021,Labours Day
+Alberta,06-09-2021,Labours Day
+Saskatchewan,06-09-2021,Labours Day
+Yukon,06-09-2021,Labours Day
+Ontario,11-10-2021,Thanksgiving
+BC,11-10-2021,Thanksgiving
+Manitoba,11-10-2021,Thanksgiving
+Nunavut,11-10-2021,Thanksgiving
+NWT,11-10-2021,Thanksgiving
+PEI,11-10-2021,Thanksgiving
+Quebec,11-10-2021,Thanksgiving
+Alberta,11-10-2021,Thanksgiving
+Saskatchewan,11-10-2021,Thanksgiving
+Yukon,11-10-2021,Thanksgiving
+Ontario,31-10-2021,Halloween
+BC,31-10-2021,Halloween
+Manitoba,31-10-2021,Halloween
+New Brunswick,31-10-2021,Halloween
+NL,31-10-2021,Halloween
+Nova Scotia,31-10-2021,Halloween
+Nunavut,31-10-2021,Halloween
+NWT,31-10-2021,Halloween
+PEI,31-10-2021,Halloween
+Quebec,31-10-2021,Halloween
+Alberta,31-10-2021,Halloween
+Saskatchewan,31-10-2021,Halloween
+Yukon,31-10-2021,Halloween
+BC,11-11-2021,Remembrance Day
+New Brunswick,11-11-2021,Remembrance Day
+NL,11-11-2021,Remembrance Day
+Nunavut,11-11-2021,Remembrance Day
+NWT,11-11-2021,Remembrance Day
+PEI,11-11-2021,Remembrance Day
+Alberta,11-11-2021,Remembrance Day
+Saskatchewan,11-11-2021,Remembrance Day
+Yukon,11-11-2021,Remembrance Day
+Ontario,25-12-2021,Christmas
+BC,25-12-2021,Christmas
+Manitoba,25-12-2021,Christmas
+New Brunswick,25-12-2021,Christmas
+NL,25-12-2021,Christmas
+Nova Scotia,25-12-2021,Christmas
+Nunavut,25-12-2021,Christmas
+NWT,25-12-2021,Christmas
+PEI,25-12-2021,Christmas
+Quebec,25-12-2021,Christmas
+Alberta,25-12-2021,Christmas
+Saskatchewan,25-12-2021,Christmas
+Yukon,25-12-2021,Christmas
+Ontario,26-12-2021,Boxing Day
+BC,26-12-2021,Boxing Day
+Manitoba,26-12-2021,Boxing Day
+New Brunswick,26-12-2021,Boxing Day
+NL,26-12-2021,Boxing Day
+Nova Scotia,26-12-2021,Boxing Day
+Nunavut,26-12-2021,Boxing Day
+NWT,26-12-2021,Boxing Day
+PEI,26-12-2021,Boxing Day
+Quebec,26-12-2021,Boxing Day
+Alberta,26-12-2021,Boxing Day
+Saskatchewan,26-12-2021,Boxing Day
+Yukon,26-12-2021,Boxing Day
